@@ -11,4 +11,4 @@
 
 Auto-Installer
 
-apt-get update && apt-get upgrade -y && wget https://raw.githubusercontent.com/gugun09/install/master/install.sh && chmod +x install.sh && ./install.sh
+apt-get update && apt-get upgrade -y && wget https://raw.githubusercontent.com/Shiro2116/hzrossh/master/install.sh && chmod +x install.sh && ./install.sh
